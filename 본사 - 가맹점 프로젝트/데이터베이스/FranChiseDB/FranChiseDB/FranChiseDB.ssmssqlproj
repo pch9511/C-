@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FranChiseDB">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DAUM202\MSSQLSERVER2:sa">
+          <Created>2023-03-03T16:49:39.9755256+09:00</Created>
+          <Type>SQL</Type>
+          <Server>DAUM202\MSSQLSERVER2</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+        <ConnectionNode Name="DAUM202\SQLEXPRESS:DAUM202\다음학생">
+          <Created>2023-05-03T11:13:26.0753482+09:00</Created>
+          <Type>SQL</Type>
+          <Server>DAUM202\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="DAUM202\SQLEXPRESS:sa">
+          <Created>2023-05-04T10:45:49.5970643+09:00</Created>
+          <Type>SQL</Type>
+          <Server>DAUM202\SQLEXPRESS</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Category.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Category.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ChatLog.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ChatLog.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Client.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Client.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FranchiseInfo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>FranchiseInfo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FranStock.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>FranStock.sql</FullPath>
+        </FileNode>
+        <FileNode Name="HeadStock.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>HeadStock.sql</FullPath>
+        </FileNode>
+        <FileNode Name="HeadStockOut.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>HeadStockOut.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Login.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Login.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LoginLog.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LoginLog.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Mail.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Mail.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Menu.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Menu.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Note.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Note.sql</FullPath>
+        </FileNode>
+        <FileNode Name="NoteComment.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>NoteComment.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Order.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Order.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Pay.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Pay.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Product.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Product.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Register.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Register.sql</FullPath>
+        </FileNode>
+        <FileNode Name="StaffLogin.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>StaffLogin.sql</FullPath>
+        </FileNode>
+        <FileNode Name="StaffLoginLog.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAUM202\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAUM202\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>StaffLoginLog.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.0": {
+      "Franchise.Dul/1.0.0": {
+        "runtime": {
+          "Franchise.Dul.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Franchise.Dul/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

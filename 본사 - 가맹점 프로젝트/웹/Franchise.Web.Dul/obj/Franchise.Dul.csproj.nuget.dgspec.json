@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wg787\\Downloads\\WinForm + Web 프로젝트 (2)\\WinForm + Web 프로젝트 (2)\\WinForm + Web 프로젝트\\Franchise.Web\\Franchise.Web.Dul\\Franchise.Dul.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wg787\\Downloads\\WinForm + Web 프로젝트 (2)\\WinForm + Web 프로젝트 (2)\\WinForm + Web 프로젝트\\Franchise.Web\\Franchise.Web.Dul\\Franchise.Dul.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wg787\\Downloads\\WinForm + Web 프로젝트 (2)\\WinForm + Web 프로젝트 (2)\\WinForm + Web 프로젝트\\Franchise.Web\\Franchise.Web.Dul\\Franchise.Dul.csproj",
+        "projectName": "Franchise.Dul",
+        "projectPath": "C:\\Users\\wg787\\Downloads\\WinForm + Web 프로젝트 (2)\\WinForm + Web 프로젝트 (2)\\WinForm + Web 프로젝트\\Franchise.Web\\Franchise.Web.Dul\\Franchise.Dul.csproj",
+        "packagesPath": "C:\\Users\\wg787\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wg787\\Downloads\\WinForm + Web 프로젝트 (2)\\WinForm + Web 프로젝트 (2)\\WinForm + Web 프로젝트\\Franchise.Web\\Franchise.Web.Dul\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wg787\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.0": {
+            "targetAlias": "netcoreapp1.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.0": {
+          "targetAlias": "netcoreapp1.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.0.5, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

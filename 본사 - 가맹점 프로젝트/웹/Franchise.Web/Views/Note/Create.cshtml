@@ -1,0 +1,10 @@
+﻿@model Note
+    
+<form asp-controller="Note" asp-action="Create"
+        enctype="multipart/form-data" method="post">
+    @Html.Partial("_BoardEditorForm")
+</form>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }    
+}

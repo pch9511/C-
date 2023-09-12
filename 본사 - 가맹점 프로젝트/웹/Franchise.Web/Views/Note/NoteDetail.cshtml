@@ -1,0 +1,67 @@
+﻿@model Note
+
+<hr />
+<table style="width: 800px; margin-left:auto; margin-right:auto;">
+    <tr>
+        <td>
+            <a asp-area="" asp-controller="Note" asp-action="Index">게시판으로 돌아가기</a>
+            <a class="btn btn-default" style="float:right;" href="/Note/NoteDetail/@(Model.Ref+1)">
+                다음글
+            </a>
+            <a class="btn btn-default" style="float:right; margin-right:4px;" href="/Note/NoteDetail/@(Model.Ref-1)">
+                이전글
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h2>@Model.Title</h2>
+            <div class="col-md-8">
+                <span>@Model.Name</span>
+                <sapn style="padding:30px;">@Html.Raw(ViewBag.FileName)</sapn>
+            </div>
+            <span>댓글 @Model.RefOrder</span>
+            <span style="float:right;">작성일 @Model.PostDate</span>
+            <hr />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4"
+            style="padding:10px; height:300px; vertical-align:top;">
+            @Model.Content
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.Partial("_BoardCommentControl",
+                (NoteCommentViewModel)ViewBag.CommentListAndId)
+        </td>
+    </tr>
+    <tr style="text-align:center;">
+        <td>
+            @if (Model.RegiNum == User.Claims.FirstOrDefault(c => c.Type.Contains("RegiNum")).Value)
+            {
+                <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-default">
+                    수정
+                </a>
+                <a href="/Note/Delete?id=@Model.Id" onclick="return confirm('삭제?')" class="btn btn-default">삭제</a>
+            }
+            <a asp-action="Reply" asp-route-id="@Model.Id" class="btn btn-default">
+                답글
+            </a>
+        </td>
+    </tr>
+</table>
+
+@section Scripts {
+    @if (TempData["Message"] != null)
+    {
+        <link href="~/lib/toastr/toastr.css" rel="stylesheet" />
+        <script src="~/lib/toastr/toastr.js"></script>
+        <script>
+            $(function () {
+                toastr.info('@TempData["Message"]');
+            });
+        </script>
+    }
+}

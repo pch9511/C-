@@ -1,0 +1,112 @@
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\bin\Debug\FranchisePOS.exe
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\bin\Debug\FranchisePOS.pdb
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\bin\Debug\FranchisePOS.exe.config
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.CardList.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientChat.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.CreditList.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ProfitMenu.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.SellList.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.TotalProfit.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.PaySelect.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientCheck.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.PointUse.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientDelete.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientList.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientMenu.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientModify.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientRegist.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.Login.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.MainForm.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.Order.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.Properties.Resources.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockList.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockOrder.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockOrderCancel.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockOrderList.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StaffDelete.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StaffMenu.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StaffModify.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StaffRegist.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockMenu.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.TimeAttendance.resources
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.csproj.GenerateResource.cache
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.csproj.CoreCompileInputs.cache
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.exe
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.pdb
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.csprojAssemblyReference.cache
+E:\박찬혁\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ChatList.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\bin\Debug\FranchisePOS.exe.config
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\bin\Debug\FranchisePOS.exe
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\bin\Debug\FranchisePOS.pdb
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.csprojAssemblyReference.cache
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ChatList.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.CardList.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientChat.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.CreditList.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ProfitMenu.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.SellList.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.TotalProfit.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.PaySelect.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientCheck.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.PointUse.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientDelete.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientList.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientMenu.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientModify.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientRegist.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.Login.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.MainForm.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.Order.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.Properties.Resources.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockList.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockOrder.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockOrderCancel.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockOrderList.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StaffDelete.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StaffMenu.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StaffModify.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StaffRegist.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockMenu.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.TimeAttendance.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.csproj.GenerateResource.cache
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.csproj.CoreCompileInputs.cache
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.exe
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.pdb
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\bin\Debug\FranchisePOS.exe.config
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\bin\Debug\FranchisePOS.exe
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\bin\Debug\FranchisePOS.pdb
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.csproj.AssemblyReference.cache
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ChatList.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.CardList.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientChat.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.CreditList.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ProfitMenu.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.SellList.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.TotalProfit.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.PaySelect.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientCheck.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.PointUse.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientDelete.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientList.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientMenu.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientModify.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.ClientRegist.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.Login.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.MainForm.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.Order.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.Properties.Resources.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockList.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockOrder.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockOrderCancel.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockOrderList.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StaffDelete.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StaffMenu.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StaffModify.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StaffRegist.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.StockMenu.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.TimeAttendance.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.csproj.GenerateResource.cache
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.csproj.CoreCompileInputs.cache
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.exe
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\FranchisePOS\FranchisePOS\obj\Debug\FranchisePOS.pdb

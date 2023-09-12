@@ -1,0 +1,19 @@
+E:\박찬혁\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\bin\Debug\Franchise.Database.dacpac
+E:\박찬혁\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\bin\Debug\Franchise.Database.dll
+E:\박찬혁\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\bin\Debug\Franchise.Database.pdb
+E:\박찬혁\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\obj\Debug\Franchise.Database.dll
+E:\박찬혁\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\obj\Debug\Franchise.Database.pdb
+E:\박찬혁\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\obj\Debug\Model.xml
+E:\박찬혁\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\obj\Debug\refactor.xml
+E:\박찬혁\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\obj\Debug\postdeploy.sql
+E:\박찬혁\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\obj\Debug\predeploy.sql
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\bin\Debug\Franchise.Database.dacpac
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\bin\Debug\Franchise.Database.dll
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\bin\Debug\Franchise.Database.pdb
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\obj\Debug\Franchise.Database.sqlprojAssemblyReference.cache
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\obj\Debug\Model.xml
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\obj\Debug\refactor.xml
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\obj\Debug\postdeploy.sql
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\obj\Debug\predeploy.sql
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\obj\Debug\Franchise.Database.dll
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise.Database\Franchise.Database\obj\Debug\Franchise.Database.pdb

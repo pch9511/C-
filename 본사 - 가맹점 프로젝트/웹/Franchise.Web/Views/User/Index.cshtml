@@ -1,0 +1,14 @@
+﻿@*회원 정보 표시*@
+
+<h1>메인 페이지</h1>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <span>@User.FindFirst("Id").Value 님 회원 요청이 완료했습니다.</span>
+}
+else
+{
+    <a href="/User/Login">로그인</a>
+
+    <a href="/User/Register">회원가입</a>
+}

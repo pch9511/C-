@@ -1,0 +1,68 @@
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\bin\Debug\Franchise.exe.config
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\bin\Debug\Franchise.exe
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\bin\Debug\Franchise.pdb
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.csprojAssemblyReference.cache
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Form1.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Properties.Resources.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.csproj.GenerateResource.cache
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.csproj.CoreCompileInputs.cache
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.exe
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.pdb
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.FranchiseManagement.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.WebRegisterManagement.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.ProductManagement.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Category.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Product.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.StoreOrRelease.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Store.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.SelectFran.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Request.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.WebRegist.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Profit.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Release.resources
+E:\박찬혁\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.ProductMade.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\bin\Debug\Franchise.exe.config
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\bin\Debug\Franchise.exe
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\bin\Debug\Franchise.pdb
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.csprojAssemblyReference.cache
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Profit.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Request.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.WebRegist.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Release.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.SelectFran.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Store.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Product.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Category.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.FranchiseManagement.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.ProductManagement.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Properties.Resources.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.WebRegisterManagement.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.StoreOrRelease.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.csproj.GenerateResource.cache
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.csproj.CoreCompileInputs.cache
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.exe
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.pdb
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.MainMenu.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\bin\Debug\Franchise.exe.config
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\bin\Debug\Franchise.exe
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\bin\Debug\Franchise.pdb
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.csproj.AssemblyReference.cache
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.csproj.SuggestedBindingRedirects.cache
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Profit.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Request.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.WebRegist.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Release.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.SelectFran.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Store.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Product.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Category.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.MainMenu.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.FranchiseManagement.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.ProductManagement.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.Properties.Resources.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.WebRegisterManagement.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.StoreOrRelease.resources
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.csproj.GenerateResource.cache
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.csproj.CoreCompileInputs.cache
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.exe
+C:\Users\wg787\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Franchise\Franchise\obj\Debug\Franchise.pdb

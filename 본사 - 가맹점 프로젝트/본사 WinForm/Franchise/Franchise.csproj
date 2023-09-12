@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A494F107-CC71-421A-9FFA-532703F96D4C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Franchise</RootNamespace>
+    <AssemblyName>Franchise</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Profit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profit.Designer.cs">
+      <DependentUpon>Profit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Request.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Request.Designer.cs">
+      <DependentUpon>Request.cs</DependentUpon>
+    </Compile>
+    <Compile Include="가맹점관리\WebRegist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="가맹점관리\WebRegist.Designer.cs">
+      <DependentUpon>WebRegist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="상품관리\SelectFran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="상품관리\SelectFran.Designer.cs">
+      <DependentUpon>SelectFran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="상품관리\Release.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="상품관리\Release.Designer.cs">
+      <DependentUpon>Release.cs</DependentUpon>
+    </Compile>
+    <Compile Include="상품관리\Store.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="상품관리\Store.Designer.cs">
+      <DependentUpon>Store.cs</DependentUpon>
+    </Compile>
+    <Compile Include="상품관리\Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="상품관리\Product.Designer.cs">
+      <DependentUpon>Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="상품관리\Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="상품관리\Category.Designer.cs">
+      <DependentUpon>Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="메뉴창\MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="메뉴창\MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="가맹점관리\FranchiseManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="가맹점관리\FranchiseManagement.Designer.cs">
+      <DependentUpon>FranchiseManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="메뉴창\ProductManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="메뉴창\ProductManagement.Designer.cs">
+      <DependentUpon>ProductManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="가맹점관리\WebRegisterManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="가맹점관리\WebRegisterManagement.Designer.cs">
+      <DependentUpon>WebRegisterManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="상품관리\StoreOrRelease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="상품관리\StoreOrRelease.Designer.cs">
+      <DependentUpon>StoreOrRelease.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Profit.resx">
+      <DependentUpon>Profit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Request.resx">
+      <DependentUpon>Request.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="가맹점관리\WebRegist.resx">
+      <DependentUpon>WebRegist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="상품관리\Release.resx">
+      <DependentUpon>Release.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="상품관리\SelectFran.resx">
+      <DependentUpon>SelectFran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="상품관리\Store.resx">
+      <DependentUpon>Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="상품관리\Product.resx">
+      <DependentUpon>Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="상품관리\Category.resx">
+      <DependentUpon>Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="메뉴창\MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="가맹점관리\FranchiseManagement.resx">
+      <DependentUpon>FranchiseManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="메뉴창\ProductManagement.resx">
+      <DependentUpon>ProductManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="가맹점관리\WebRegisterManagement.resx">
+      <DependentUpon>WebRegisterManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="상품관리\StoreOrRelease.resx">
+      <DependentUpon>StoreOrRelease.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6%28x86 및 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

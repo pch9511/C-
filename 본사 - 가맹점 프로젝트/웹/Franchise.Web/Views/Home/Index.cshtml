@@ -1,0 +1,166 @@
+﻿@using Franchise.Dul
+@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<Note>
+@inject IUserRepository Repo
+@inject INoteRepository DnnRepo
+@inject IOrderRepository OrderRepo
+
+<script>
+</script>
+<table style="width: 100%; height:800px;">
+    <tr>
+        <td style="width:50%; float:left;">
+            <h2>공지사항</h2>
+            <table class="table table-bordered table-condensed table-striped table-responsive">
+                <tr>
+                    <th style="width:150px; text-align:center;">
+                        제목
+                    </th>
+                    <th style="width:120px; text-align:center;">
+                        작성일
+                    </th>
+                </tr>
+                @foreach (var item in
+             DnnRepo.GetNoteSummaryByCategory("Notice").Take(5))
+                {
+                    <tr>
+                        <td>
+                            <a asp-controller="Note"
+                               asp-action="NoteDetail"
+                               asp-route-id="@item.Id">
+                                <strong>
+                                    @StringLibrary.CutStringUnicode(
+                                    item.Title,30)
+                                </strong>
+                            </a>
+                        </td>
+                        <td style="text-align:center;">
+                            @BoardLibrary.FuncShowTime(item.PostDate)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </td>
+        <td style="width:40%; float:right;">
+            <h2>주문 내역</h2>
+            <table class="table table-bordered table-condensed table-striped table-responsive">
+                <tr>
+                    <th style="width:150px; text-align:center;">
+                        상품코드
+                    </th>
+                    <th style="width:300px; text-align:center;">
+                        상품명
+                    </th>
+                    <th style="width:150px; text-align:center;">
+                        수량
+                    </th>
+                    <th style="width:500px; text-align:center;">
+                        발주현황
+                    </th>
+                    <th style="width:300px; text-align:center;">
+                        날짜
+                    </th>
+                </tr>
+                @foreach (var item in OrderRepo.GetAll(User.Claims.FirstOrDefault(c => c.Type.Contains("RegiNum")).Value))
+                {
+                    <tr>
+                        <td style="text-align:center;">
+                            @item.Id
+                        </td>
+                        <td style="text-align:center;">
+                            @item.Name
+                        </td>
+                        <td style="text-align:center;">
+                            @item.Account
+                        </td>
+                        <td style="text-align:center;">
+                            @item.State
+                        </td>
+                        <td style="text-align:center;">
+                            @BoardLibrary.FuncShowTime(item.Date)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td style="width:50%; float:left;">
+            <h2>최근글</h2>
+            <table class="table table-bordered table-condensed table-striped table-responsive">
+                <tr>
+                    <th style=width: 70px; text-align:center;>
+                        제목
+                    </th>
+                    <th style=width: 30px; text-align:center;>
+                        작성일
+                    </th>
+                </tr>
+                @foreach (var item in
+                 DnnRepo.GetRecentPosts())
+                {
+                    <tr>
+                        <td>
+                            <a asp-controller="Note"
+                               asp-action="NoteDetail"
+                               asp-route-id="@item.Id">
+                                <strong>
+                                    @StringLibrary.CutStringUnicode(
+                                    item.Title,30)
+                                </strong>
+                            </a>
+                        </td>
+                        <td style="text-align:center;">
+                            @BoardLibrary.FuncShowTime(item.PostDate)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </td>
+        <td style="width:40%; float:right;">
+            <h2>질문과 답변</h2>
+            <table class="table table-bordered table-condensed table-striped table-responsive">
+                <tr>
+                    <th style=width: 70px; text-align:center;>
+                        제목
+                    </th>
+                    <th style=width: 30px; text-align:center;>
+                        작성일
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                        <a asp-area="" asp-controller="" asp-action="">내용</a>
+                    </td>
+                    <td>
+                        날짜or 시간란
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+
+@section Scripts {
+    @if (Repo.MailNotice(@User.Claims.FirstOrDefault(c => c.Type.Contains("Name")).Value))
+    {
+        /*팝업창 제작
+        https://velog.io/@devhami521/CSS-JS-%EB%AA%A8%EB%8B%AC-%ED%8C%9D%EC%97%85-%EB%A7%8C%EB%93%A4%EA%B8%B0
+        </body>*/
+        <div id="modalWrap">
+            <div id="modalContent">
+                <div id="modalBody">
+                    <span id="closeBtn">&times;</span>
+                    <p>읽지 않은 메일이 있습니다.</p>
+                    <a asp-area="" asp-controller="Mail" asp-action="Index" asp-route-id=@User.Claims.FirstOrDefault(c => c.Type.Contains("RegiNum")).Value>메일함으로 가기</a>
+                </div>
+            </div>
+        </div>
+
+        <link rel="stylesheet" href="~/css/Test.css" type="text/css" />
+        <script src="~/js/Test.js"></script>
+    }
+}

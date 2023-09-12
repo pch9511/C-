@@ -1,0 +1,53 @@
+﻿@model NoteCommentViewModel
+
+<table style="padding: 10px;margin-left:20px;margin-right:20px;width:95%;">
+    @foreach (var comment in Model.NoteCommentList)
+    {
+        <tr style="border-bottom: 1px dotted silver;">
+            <td style="width: 80px;">
+                @comment.Name
+            </td>
+            <td style="width: 350px;">
+                @Html.Raw(comment.Opinion.Replace("\r\n", "<br />"))
+            </td>
+            <td style="width: 180px;">
+                @comment.PostDate
+            </td>
+            <td style="width: 10px;text-align:center;">
+                <a title="댓글 삭제" href="/Note/CommentDelete?BoardId=@Model.BoardId&Id=@comment.Id&Name=@comment.Name">
+                    <img src="~/images//dnn/icon_delete_red.gif" border="0" />
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+<br/>
+<script>
+    // 모델 메타데이터를 사용하지 않고, 직접 클라이언트 측 코드 사용
+    function CheckCommentForm() {
+        var content = document.getElementById("txtOpinion");
+        if (content.value.length < 1) {
+            window.alert("의견을 입력하시오.");
+            content.focus();
+            return false;
+        }
+        return true;
+    }
+</script>
+<form asp-controller="Note" asp-action="CommentAdd" method="post"
+      onsubmit="return CheckCommentForm();">
+    <input type="hidden" name="BoardId" value="@Model.BoardId" />
+    <input type="hidden" name="txtName" value="@User.Claims.FirstOrDefault(c => c.Type.Contains("Name")).Value"/>
+    <table>
+        <tr>
+            <td>
+                <textarea rows="3" cols="70" name="txtOpinion" id="txtOpinion" style="width:700px; resize:none;"
+                          placeholder="댓글을 입력하세요."></textarea>
+                <input type="submit" value="등록"
+                       class="form-control btn btn-primary"
+                       style="width:96px; height:66px; display:inline-block; float:right;" />
+                <hr />
+            </td>
+        </tr>
+    </table>
+</form>

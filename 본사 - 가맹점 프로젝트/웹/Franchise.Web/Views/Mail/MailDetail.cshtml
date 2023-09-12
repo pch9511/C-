@@ -1,0 +1,72 @@
+﻿@model Mail
+<h2>메일 내용</h2>
+<hr />
+<div style="text-align:right;">
+
+</div>
+
+<a asp-area="" asp-controller="Home" asp-action="Contact">게시판으로 돌아가기</a>
+
+<a class="btn btn-default" style="margin-left:600px;">
+    이전글
+</a>
+<a class="btn btn-default">
+    다음글
+</a>
+
+<h2>@Model.Title</h2>
+
+<div class="col-md-8">
+    <p>@Model.Id</p>
+</div>
+<p>댓글수</p>
+
+<hr />
+
+<form asp-controller="User" asp-action="MailOk" asp-route-num=@Model.Num, asp-route-id=@Model.RegiNum method="post">
+    <table style="width: 800px; margin-right:auto;">
+        <tr>
+            <td>
+                @Model.Content
+                <br />
+                @if (Model.Title == "회원요청 승인")
+                {
+                    <div style="text-align:center">
+                        <input type="submit" value="승인 확인" class="btn btn-primary" />
+                    </div>
+                }
+            </td>
+        </tr>
+    </table>
+</form>
+<hr />
+
+
+<table style="width:800px; margin-left: 50px;">
+    <tr>
+        <td colspan="4" style="width:800px;">
+            <textarea rows="3" cols="70" name="txtOpinion" id="txtOpinion"
+                        class="form-control"
+                        style="width:700px; display:inline-block;"></textarea>
+
+        </td>
+        <td style="width:128px; text-align:right;">
+            <input type="submit" value="등록"
+                    class="form-control btn btn-primary"
+                    style="width:96px; height:60px; display:inline-block;" />
+        </td>
+    </tr>
+</table>
+
+
+<hr />
+
+<div style="width:800px;	text-align:center;">
+    <a class="btn btn-default">
+        삭제
+    </a>
+    <a class="btn btn-default">
+        답장
+    </a>
+
+</div>

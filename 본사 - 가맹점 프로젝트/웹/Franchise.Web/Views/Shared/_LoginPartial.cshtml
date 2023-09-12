@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Id"] = "임시로그인";
+
+}
+@if (User.Identity.IsAuthenticated)
+{
+    <form asp-controller="User" asp-action="Logout" asp-route-id=@User.Claims.FirstOrDefault(c => c.Type.Contains("Name")).Value method="post"
+          id="logoutForm">
+        <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">가맹점</a>
+        <ul class="nav navbar-nav">
+            @if (User.FindFirst("Id").Value != "False")
+            {
+                <li><a asp-area="" asp-controller="Note" asp-action="Index">게시판</a></li>
+                <li><a asp-area="" asp-controller="Order" asp-action="Index" asp-route-id=@User.Claims.FirstOrDefault(c => c.Type.Contains("RegiNum")).Value>주문내역</a></li>
+                <li><a asp-area="" asp-controller="QnA" asp-action="Index">자주묻는 질문</a></li>
+            }
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+            @if (User.FindFirst("Id").Value == "False")
+            {
+                <li>
+                    <a asp-controller="User" asp-action="UserInfor" title="Manage">
+                        @User.Claims.FirstOrDefault(c => c.Type.Contains("Name")).Value
+                    </a>
+                </li>
+                <li>
+                    <a asp-controller="User" asp-action="Register">회원요청</a>
+                </li>
+            }
+            @if (User.FindFirst("Id").Value != "False")
+            {
+                <li>
+                    <a asp-controller="User" asp-action="UserInfor" title="Manage">
+                        @User.Claims.FirstOrDefault(c => c.Type.Contains("Name")).Value
+                    </a>
+                </li>
+            }
+            <li><a asp-area="" asp-controller="Mail" asp-action="Index" asp-route-id=@User.Claims.FirstOrDefault(c => c.Type.Contains("RegiNum")).Value>메일함</a></li>
+            <li>
+                <button type="submit" class="btn btn-link navbar-btn navbar-link">
+                    로그아웃
+                </button>
+            </li>
+        </ul>
+    </form>
+}
+else
+{
+    <a asp-area="" asp-controller="User" asp-action="Login" class="navbar-brand">OO사 가맹점 관리</a>
+    <ul class="nav navbar-nav navbar-right">
+        @*<li><a asp-controller="User" asp-action="Register">회원가입</a></li>
+            <li><a asp-controller="User" asp-action="Login">로그인</a></li>*@
+    </ul>
+}

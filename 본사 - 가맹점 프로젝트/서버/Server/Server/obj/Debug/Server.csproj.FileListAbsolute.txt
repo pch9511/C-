@@ -1,0 +1,20 @@
+E:\박찬혁\WinForm + Web 프로젝트\Server\Server\Server\bin\Debug\Server.exe.config
+E:\박찬혁\WinForm + Web 프로젝트\Server\Server\Server\bin\Debug\Server.exe
+E:\박찬혁\WinForm + Web 프로젝트\Server\Server\Server\bin\Debug\Server.pdb
+E:\박찬혁\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\박찬혁\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\박찬혁\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\박찬혁\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\박찬혁\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.exe
+E:\박찬혁\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.pdb
+E:\박찬혁\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.ServerConnect.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.ServerConnect.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\다음학생\Downloads\WinForm + Web 프로젝트 (2)\WinForm + Web 프로젝트\Server\Server\Server\obj\Debug\Server.pdb
